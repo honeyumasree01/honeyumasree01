@@ -1,88 +1,121 @@
-# 💫 About Me
+# Hi, I'm Honey Umasree 👋
 
-I build AI systems that work in production — not prototypes or academic exercises.
+**Software Engineer** · AI Systems · Data Pipelines · Backend Infrastructure
 
-My focus: LLM-powered applications (RAG, multi-agent workflows), distributed data infrastructure, and systems thinking. I'm obsessed with the problems that matter in real systems — latency, reliability, hallucination reduction, and scalability.
+I build AI systems that work in production — not prototypes or academic exercises.  
+My focus: LLM-powered applications, distributed data infrastructure, and systems thinking.  
+Obsessed with the problems that matter in real systems — latency, reliability, hallucination reduction, and scalability.
 
-**Currently exploring:**
-- Multi-agent systems that improve themselves (LangGraph, self-correction, failure handling)
-- Retrieval optimization (vector + graph hybrids, reranking, semantic understanding)
-- Production ML infrastructure (monitoring, evaluation frameworks, model reliability)
-- Distributed systems under real-world constraints
-
-**What I actually care about:**
-- Systems that scale without breaking
-- Reducing hallucinations through better retrieval, not bigger models
-- Making AI observable and testable
-- Understanding tradeoffs, not chasing hype
-
-I'm interested in conversations around agentic AI, production system design, and how we build reliable infrastructure for AI applications.
+📍 Charlotte, NC &nbsp;|&nbsp; 🔗 [LinkedIn](https://linkedin.com/in/honey-pentakota) &nbsp;|&nbsp; ✍️ [Medium](https://medium.com/@honeyumasree01) &nbsp;|&nbsp; 🤗 [Hugging Face](https://huggingface.co/honeyumasree01)
 
 ---
 
-## 🌐 Connect
+## 🔧 What I'm currently building
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=flat)](https://linkedin.com/in/honey-pentakota/) 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=flat)](mailto:humasree01@gmail.com)
+- **Multi-agent systems** that improve themselves — LangGraph, self-correction, failure handling
+- **Retrieval optimization** — vector + graph hybrids, reranking, semantic understanding
+- **Production ML infrastructure** — monitoring, evaluation frameworks, model reliability
+- **Distributed pipelines** under real-world constraints
 
 ---
 
 ## 💻 Tech Stack
 
-**Languages:**
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
-![SQL](https://img.shields.io/badge/sql-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
+**Languages**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
 
-**AI/ML:**
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
+**AI & LLM**  
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 
-**Databases & Storage:**
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
-![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=flat&logo=neo4j&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=flat&logo=Amazon%20DynamoDB&logoColor=white)
+**Databases & Vector Stores**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat&logo=redis&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat&logo=neo4j&logoColor=white)
 
-**Backend & APIs:**
+**Backend & APIs**  
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)
+![Temporal](https://img.shields.io/badge/Temporal-000000?style=flat&logoColor=white)
 
-**Frontend:**
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
+**Cloud & Infra**  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
 
-**Cloud & DevOps:**
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=flat&logo=kubernetes&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white)
+**Monitoring**  
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
+![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=flat&logo=datadog&logoColor=white)
 
-**Monitoring & Tools:**
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=Prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=flat&logo=grafana&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
+---
+
+## 🚀 Featured Projects
+
+### [AI Codebase Navigator](https://github.com/honeyumasree01/ai-codebase-navigator)
+> Intelligent code search and understanding platform
+
+Indexes GitHub repositories via **Tree-sitter AST parsing** — extracting functions, classes, and call graphs. Hybrid retrieval using **Pinecone vector search + Neo4j graph traversal**. Async **Celery** ingestion pipeline with batched embeddings. React UI with real-time streaming and clickable code references.
+
+`Python` `LangChain` `Neo4j` `Pinecone` `Tree-sitter` `FastAPI` `Docker` `GitHub API`
+
+---
+
+### [AI Agent System](https://github.com/honeyumasree01/ai-agent)
+> Multi-agent orchestration with self-improvement
+
+**LangGraph**-powered Planner → Executor → Critic workflow with automated scoring, replanning on low-quality outputs, and fallback logic across Claude, GPT-4, and Gemini. RAG-based memory via Pinecone. FastAPI backend with real-time SSE streaming.
+
+`Python` `LangGraph` `LangChain` `Pinecone` `FastAPI` `Docker` `React`
+
+---
+
+### [Bubble App Builder](https://github.com/honeyumasree01/bubble-app-builder)
+> LLM fine-tuning with LoRA & QLoRA
+
+Fine-tuned **Qwen2.5-1.5B-Instruct** using LoRA and 4-bit quantization on a custom multi-domain dataset. Implemented assistant-only loss masking with Hugging Face PEFT and TRL. Published to Hugging Face Hub with full technical write-up on Medium.
+
+`Python` `Hugging Face` `LoRA` `QLoRA` `PEFT` `TRL` `PyTorch`
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=honeyumasree01&theme=dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&text_color=58a6ff&icon_color=58a6ff)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=honeyumasree01&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakNum=58a6ff&sideNums=58a6ff&sideLabels=58a6ff&dates=58a6ff)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=honeyumasree01&theme=dark&hide_border=true&layout=compact&bg_color=0d1117&text_color=58a6ff&title_color=58a6ff)
+<p align="left">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=honeyumasree01&show_icons=true&theme=default&hide_border=true&count_private=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=honeyumasree01&layout=compact&theme=default&hide_border=true" />
+</p>
 
 ---
 
-**"The best code solves real problems, scales reliably, and can be understood by the next engineer who reads it."**
+## ✍️ Latest Writing
+
+I write about production AI systems, LLM engineering, and lessons from building at scale.  
+→ [Read on Medium](https://medium.com/@honeyumasree01)
+
+---
+
+## 💬 What I actually care about
+
+- Systems that scale without breaking
+- Reducing hallucinations through better retrieval, not bigger models
+- Making AI observable and testable
+- Understanding tradeoffs, not chasing hype
+
+---
+
+*"The best code solves real problems, scales reliably, and can be understood by the next engineer who reads it."*
